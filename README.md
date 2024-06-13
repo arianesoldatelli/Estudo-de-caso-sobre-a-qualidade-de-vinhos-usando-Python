@@ -1,4 +1,4 @@
-# Estudo de caso sobre a qualidade de vinhos usando Python
+# Estudo de caso sobre a qualidade de vinhos usando Python (Case study on wine quality using Python)
 
 Processo de análise de dados (Data analysis process) 
 
