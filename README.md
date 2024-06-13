@@ -11,8 +11,13 @@ English: Using Pandas and Python libraries (Numpy, Matplotlib) to investigate a 
 Data explored: Number of samples and number of columns in each dataset; features with missing values; duplicate rows; number of unique values for quality in each dataset; average density of the red and white wine dataset.
 
 1-Análise_1_Understanding Data using Pandas
+
 2-Analysis_2_Creating columns and combining data_(Numpy)
+
 3-Analysis_3_Creating histograms_scatter plots_(Matplotlib)
+
 4-Analysis_4_Comparing parameters (groupby)
+
 5-Analysis_5_Alcohol content analysis_(Query function)
+
 6-Analysis_6-Analysis of the influence of parameters on quality_(Matplotlib graphics)
