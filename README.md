@@ -2,7 +2,7 @@
 
 Processo de análise de dados (Data analysis process) 
 
-Português: Uso do Python para investigar um conjunto de dados sobre sobre propriedades físico-químicas e classificações de qualidade de amostras de vinhos branco e tintos, passando por todo o processo de análise de dados.
+PORTUGUÊS: Uso do Python para investigar um conjunto de dados sobre sobre propriedades físico-químicas e classificações de qualidade de amostras de vinhos branco e tintos, passando por todo o processo de análise de dados.
 
 Ao longo do caminho, foram exploradas novas formas de manipular dados com Pandas e NumPy, assim como ferramentas de visualização como Matplotlib.
 
@@ -17,7 +17,7 @@ Os atributos de cada conjunto de dados analisados foram:
 
 
 
-English: Use of Python to investigate a dataset on physicochemical properties and quality ratings of white and red wine samples, going through the entire data analysis process.
+ENGLISH: Use of Python to investigate a dataset on physicochemical properties and quality ratings of white and red wine samples, going through the entire data analysis process.
 
 Along the way, new ways of manipulating data with Pandas and NumPy were explored, as well as visualization tools such as Matplotlib.
 
