@@ -47,6 +47,8 @@ Relevant insights for the dataset:
 -What level of acidity is associated with better quality?
 
 
+REPOSITORY FILES:
+
 1-Análise_1_Understanding Data using Pandas
 
 2-Analysis_2_Creating columns and combining data_(Numpy)
