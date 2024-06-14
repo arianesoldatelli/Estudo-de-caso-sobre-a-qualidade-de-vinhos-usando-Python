@@ -12,6 +12,17 @@ Os atributos de cada conjunto de dados analisados foram:
 
 -Avaliação da qualidade: qualidade (pontuação entre 1 e 10 - mediana de pelo menos 3 avaliações feitas por especialistas em vinho).
 
+Reflexões relevantes para o conjunto de dados:
+
+-Quais característcas químicas são mais importantes para prever a qualidade do vinho?
+
+-Existe um certo tipo de vinho (tinto ou branco) associado a uma melhor qualidade?
+
+-Vinhos com maior teor alcoólico recebem classificações maiores?
+
+-Qual nível de acidez está associado a uma melhor qualidade?
+
+
 
 
 
@@ -24,6 +35,16 @@ The attributes of each data set analyzed were:
 -Physical-chemical properties: fixed acidity, volatile acidity, citric acid, residual sugar, chlorides, free sulfur dioxide, total sulfur dioxide, density, pH, sulfates, alcohol;
 
 -Quality assessment: quality (score between 1 and 10 - median of at least 3 assessments made by wine experts).
+
+Relevant insights for the dataset:
+
+-Which chemical characteristics are most important for predicting wine quality?
+
+-Is a certain type of wine (red or white) associated with better quality?
+
+-Do wines with higher alcohol content receive higher ratings?
+
+-What level of acidity is associated with better quality?
 
 
 1-Análise_1_Understanding Data using Pandas
