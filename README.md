@@ -13,9 +13,6 @@ Os atributos de cada conjunto de dados analisados foram:
 -Avaliação da qualidade: qualidade (pontuação entre 1 e 10 - mediana de pelo menos 3 avaliações feitas por especialistas em vinho).
 
 
-\n
-\n
-
 
 
 ENGLISH: Use of Python to investigate a dataset on physicochemical properties and quality ratings of white and red wine samples, going through the entire data analysis process.
