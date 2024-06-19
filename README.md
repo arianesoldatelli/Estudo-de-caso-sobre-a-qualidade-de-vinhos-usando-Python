@@ -30,8 +30,8 @@ Relevant insights for the dataset:<br>
 -What level of acidity is associated with better quality?<br> 
 
 
-<b>REPOSITORY FILES:</b> 
 
+<b>REPOSITORY FILES:</b> 
 1-Análise_1_Understanding Data using Pandas<br> 
 2-Analysis_2_Creating columns and combining data_(Numpy)<br> 
 3-Analysis_3_Creating histograms_scatter plots_(Matplotlib)<br> 
