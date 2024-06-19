@@ -1,6 +1,6 @@
 # Estudo de caso sobre a qualidade de vinhos usando Python (Case study on wine quality using Python)
 
-Processo de análise de dados (Data analysis process) 
+<b> Processo de análise de dados (Data analysis process) </b> 
 
 PORTUGUÊS: Uso do Python para investigar um conjunto de dados sobre sobre propriedades físico-químicas e classificações de qualidade de amostras de vinhos branco e tintos, passando por todo o processo de análise de dados.
 
